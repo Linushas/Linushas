@@ -1,9 +1,9 @@
 Studies show: Profiles with a pinch of irony and a dash of sarcasm attract 3.7× more collaborators *(citation needed)*
-# Technical Proficiencies & Acquired Abilities
+### Technical Proficiencies & Acquired Abilities
 - Optimizing codebase maintainability through the implementation of tightly-coupled dependencies.
 - Capable of writing tests that always pass
 
-# Currently learning
+### Currently learning
 - Applying solutions found immediately from LLM's without further investigation.
 - Maximizing code complexity for enhanced job security.
 - Perfecting the art of writing commit messages that provide minimal context.
