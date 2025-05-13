@@ -1,3 +1,4 @@
+Studies show: Profiles with a pinch of irony and a dash of sarcasm attract 3.7× more collaborators (citation needed)
 # Technical Proficiencies & Acquired Abilities
 - Optimizing codebase maintainability through the implementation of tightly-coupled dependencies.
 - Capable of writing tests that always pass
